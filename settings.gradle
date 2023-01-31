@@ -1,0 +1,5 @@
+rootProject.name = 'Sborka-proektov.-Maven-i-Gradle-2'
+include 'db'
+include 'api'
+include 'service'
+
